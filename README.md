@@ -13,7 +13,8 @@ Skills: PHP / REACT / JS / HTML / CSS / Python / VB.NET / ASP.NET / C# / C++
 - 👯 I’m looking to collaborate on Software Design 
 - 🤔 I’m looking for help with Human 
 - 💬 Ask me about 0777836963 
-
+- 
+- 🤔 if you need yo design Software Call Us +94777 836963 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kasunkavinda480)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kasun-kavinda-076928145//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kasun.kavindaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCxN-H8cBcNimlKYPDXgU6FQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mypower.lk/)  
 
