@@ -9,7 +9,6 @@ developing customized software based on varying client demands.
 Skills: PHP / REACT / JS / HTML / CSS / Python / VB.NET / ASP.NET / C# / C++
 
 - 🔭 I’m currently working on 4A Holding (PVT) Ltd
-- 🌱 I’m currently learning SLIIT 
 - 👯 I’m looking to collaborate on Software Design 
 - 🤔 I’m looking for help with Human 
 - 💬 Ask me about 0777836963 
